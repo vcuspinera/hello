@@ -8,6 +8,9 @@ My name is **Victor Cuspinera**, I am a part time teacher at the MCD program fro
 
 La sección de **Referencias** de este repositorio las encontrarás en [este link](https://github.com/vcuspinera/hello/blob/main/docs/Referencias.md).
 
+### Colaborador
+My name is **Alberto Martínez**, I'm  student at MCD program from UDG and I also work in the Central Bank of Mexico as a production engineer. I'm really into watching movies, dancing and playing board games. 
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
