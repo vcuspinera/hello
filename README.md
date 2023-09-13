@@ -11,6 +11,9 @@ La sección de **Referencias** de este repositorio las encontrarás en [este lin
 ### Colaborador
 My name is **Alberto Martínez**, I'm  student at MCD program from UDG and I also work in the Central Bank of Mexico as a production engineer. I'm really into watching movies, dancing and playing board games. 
 
+### Original idea
+This idea is based in [ttimbers/hello](https://github.com/ttimbers/hello) repository. Thank you Tiffany! 
+
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
 
